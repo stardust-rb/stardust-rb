@@ -1,7 +1,7 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Ruby Dev!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web Dev;Code+Enthusiast;Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -44,13 +44,13 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardust-rb&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stardust-rb&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Projects
@@ -64,7 +64,7 @@ const developer = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stardust-rb&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎵 Spotify Playing
@@ -83,16 +83,6 @@ const developer = {
 
 </div>
 
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
 
 ## 📊 Weekly Development Breakdown
 
@@ -103,7 +93,7 @@ const developer = {
 
 <div align="center">
   
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yourusername/stardust-rb/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -115,6 +105,6 @@ const developer = {
 
 **Thanks for visiting! 😊**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=stardust-rb&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
